@@ -19,17 +19,18 @@ It helps you explore interesting facts about animals with images, sounds, and te
 
 ---
 
-## 📥 Download
-You can download the built app here:
+## ⚠ Important Notice
+Due to some build limitations with .NET 9, the app may not run if you try to build it yourself.  
 
-👉 [BuildedApp/AnimalFactsApp.exe](BuildedApp/AnimalFactsApp.exe)
+👉 Please download the working build from Google Drive:  
+[Download AnimalFactsApp from Google Drive](https://drive.google.com/file/d/1LMJMqYXC76p88vyalgIL3o9_kC63pYYG/view?usp=sharing)
 
 ---
 
-## ⚠ How to Run
-1️⃣ Download the `AnimalFactsApp.exe` file  
-2️⃣ (If zipped) Extract it  
-3️⃣ Double-click the `.exe` file to run — no installation required  
+## 📥 How to Run
+1️⃣ Download the app from the link above  
+2️⃣ Extract if it's in a .zip file  
+3️⃣ Double-click `AnimalFactsApp.exe` to run  
 
 > Note: You might need to allow the app to run if Windows Defender SmartScreen prompts a warning (since the app is unsigned).
 
