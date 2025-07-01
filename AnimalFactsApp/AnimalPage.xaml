@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalFactsApp.AnimalPage">
+
+    <Grid>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+            <Image x:Name="AnimalImage" HeightRequest="500">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnImageTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Label x:Name="AnimalName" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
+
+            <Label x:Name="AnimalFact" TextColor="Gray" HorizontalOptions="Center">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnFactTapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
+        </StackLayout>
+
+        <Button Text="❮" FontSize="36" BackgroundColor="Transparent" TextColor="Black"
+                WidthRequest="60" HeightRequest="60" CornerRadius="30"
+                HorizontalOptions="Start" VerticalOptions="Center"
+                Clicked="OnPrevClicked"/>
+
+        <Button Text="❯" FontSize="36" BackgroundColor="Transparent" TextColor="Black"
+                WidthRequest="60" HeightRequest="60" CornerRadius="30"
+                HorizontalOptions="End" VerticalOptions="Center"
+                Clicked="OnNextClicked"/>
+    </Grid>
+</ContentPage>

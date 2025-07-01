@@ -1,0 +1,296 @@
+[
+  {
+    "Name": "Elephant",
+    "Fact": "Elephants are the only animal that cannot jump.",
+    "ImagePath": "elephant.png",
+    "SoundPath": "elephant.mp3"
+  },
+  {
+    "Name": "Kangaroo",
+    "Fact": "Kangaroos can only jump forward, can't jump backwards.",
+    "ImagePath": "kangaroo.png",
+    "SoundPath": "kangaroo.mp3"
+  },
+  {
+    "Name": "Blue Whale",
+    "Fact": "Blue Whale is the largest animal in the world and can have a length of up to 30 meters.",
+    "ImagePath": "blue_whale.png",
+    "SoundPath": "blue_whale.mp3"
+  },
+  {
+    "Name": "Giraffe",
+    "Fact": "The giraffe has a 45-50 cm long tongue to reach tall leaves.",
+    "ImagePath": "giraffe.png",
+    "SoundPath": "giraffe.mp3"
+  },
+  {
+    "Name": "Cat",
+    "Fact": "Cats sleep an average of 13-16 hours per day.",
+    "ImagePath": "cat.png",
+    "SoundPath": "cat.mp3"
+  },
+  {
+    "Name": "Koala",
+    "Fact": "Koala sleeps up to 18-22 hours a day.",
+    "ImagePath": "koala.png",
+    "SoundPath": "koala.mp3"
+  },
+  {
+    "Name": "Cheetah",
+    "Fact": "Cheetah is the fastest land animal and can run up to 112 km/hour.",
+    "ImagePath": "cheetah.png",
+    "SoundPath": "cheetah.mp3"
+  },
+  {
+    "Name": "Butterfly",
+    "Fact": "Butterflies have a sensor taste on their feet.",
+    "ImagePath": "butterfly.png",
+    "SoundPath": "butterfly.mp3"
+  },
+  {
+    "Name": "Dolphin",
+    "Fact": "Dolphins sleep with one eye open to keep from predators.",
+    "ImagePath": "dolphin.png",
+    "SoundPath": "dolphin.mp3"
+  },
+  {
+    "Name": "Owl",
+    "Fact": "Owls cannot move their eyes so they turn their heads.",
+    "ImagePath": "owl.png",
+    "SoundPath": "owl.mp3"
+  },
+  {
+    "Name": "Dog",
+    "Fact": "Dogs have a sense of smell 40 times sharper than humans.",
+    "ImagePath": "dog.png",
+    "SoundPath": "dog.mp3"
+  },
+  {
+    "Name": "Camel",
+    "Fact": "Camels can drink up to 40 gallons of water in one drink.",
+    "ImagePath": "camel.png",
+    "SoundPath": "camel.mp3"
+  },
+  {
+    "Name": "Hippopotamus",
+    "Fact": "Nile horses sweat red to protect her skin from the sun.",
+    "ImagePath": "hippopotamus.png",
+    "SoundPath": "hippopotamus.mp3"
+  },
+  {
+    "Name": "Penguin",
+    "Fact": "Emperor's penguin is the only penguin that can survive in Antarctica throughout the year.",
+    "ImagePath": "penguin.png",
+    "SoundPath": "penguin.mp3"
+  },
+  {
+    "Name": "Lion",
+    "Fact": "The female lion is responsible for most of the hunting in their group.",
+    "ImagePath": "lion.png",
+    "SoundPath": "lion.mp3"
+  },
+  {
+    "Name": "Turtle",
+    "Fact": "Turtles can live more than 150 years and migrate thousands of kilometers.",
+    "ImagePath": "turtle.png",
+    "SoundPath": "turtle.mp3"
+  },
+  {
+    "Name": "Ostrich",
+    "Fact": "Ostrich has the biggest eyes of all land animals.",
+    "ImagePath": "ostrich.png",
+    "SoundPath": "ostrich.mp3"
+  },
+  {
+    "Name": "Horse",
+    "Fact": "The horse sleeps while standing to guard himself from predators.",
+    "ImagePath": "horse.png",
+    "SoundPath": "horse.mp3"
+  },
+  {
+    "Name": "Bat",
+    "Fact": "Bats are the only mammals that can fly.",
+    "ImagePath": "bat.png",
+    "SoundPath": "bat.mp3"
+  },
+  {
+    "Name": "Gorilla",
+    "Fact": "Gorillas have 98% DNA similar to humans.",
+    "ImagePath": "gorilla.png",
+    "SoundPath": "gorilla.mp3"
+  },
+  {
+    "Name": "Duck",
+    "Fact": "The sound of ducks did not echo, and the reason was still a mystery.",
+    "ImagePath": "duck.png",
+    "SoundPath": "duck.mp3"
+  },
+  {
+    "Name": "Polar Bear",
+    "Fact": "Polar bears have black skin under their white feathers to absorb the sun's heat.",
+    "ImagePath": "polar_bear.png",
+    "SoundPath": "polar_bear.mp3"
+  },
+  {
+    "Name": "Wolf",
+    "Fact": "Wolves live in groups called herds and have a strict social hierarchy.",
+    "ImagePath": "wolf.png",
+    "SoundPath": "wolf.mp3"
+  },
+  {
+    "Name": "Bee",
+    "Fact": "Honey bees are the only insects that produce food that can be eaten by humans.",
+    "ImagePath": "bee.png",
+    "SoundPath": "bee.mp3"
+  },
+  {
+    "Name": "Clown Fish",
+    "Fact": "Clown fish can change their sex to maintain population balance.",
+    "ImagePath": "clown_fish.png",
+    "SoundPath": "fish.mp3"
+  },
+  {
+    "Name": "Snake",
+    "Fact": "Snakes do not have eyelids, so they can't blink.",
+    "ImagePath": "snake.png",
+    "SoundPath": "snake.mp3"
+  },
+  {
+    "Name": "Pelican",
+    "Fact": "Pelican has a large bag under its beak used to filter fish from water.",
+    "ImagePath": "pelican.png",
+    "SoundPath": "pelican.mp3"
+  },
+  {
+    "Name": "Hedgehog",
+    "Fact": "Hedgehogs have sharp thorns in his body which is used as a defense mechanism.",
+    "ImagePath": "hedgehog.png",
+    "SoundPath": "hedgehog.mp3"
+  },
+  {
+    "Name": "Earthworm",
+    "Fact": "Earthworms do not have eyes or lungs, they breathe through the skin.",
+    "ImagePath": "earthworm.png",
+    "SoundPath": "earthworm.mp3"
+  },
+  {
+    "Name": "Electric Eel",
+    "Fact": "Electric eels can produce up to 600 volts to defend themselves and hunt for prey.",
+    "ImagePath": "electric_eel.png",
+    "SoundPath": "electric_eel.mp3"
+  },
+  {
+    "Name": "Tiger",
+    "Fact": "Every tiger has a unique line pattern, such as fingerprints in humans.",
+    "ImagePath": "tiger.png",
+    "SoundPath": "tiger.mp3"
+  },
+  {
+    "Name": "Bull",
+    "Fact": "Bull did not see the red color, they were actually color blind.",
+    "ImagePath": "bull.png",
+    "SoundPath": "bull.mp3"
+  },
+  {
+    "Name": "Shark",
+    "Fact": "Some shark species can detect blood drops in water to a distance of half miles.",
+    "ImagePath": "shark.png",
+    "SoundPath": "shark.mp3"
+  },
+  {
+    "Name": "Dove",
+    "Fact": "Pigeons have extraordinary navigation capabilities and can return to their nests from very far places.",
+    "ImagePath": "dove.png",
+    "SoundPath": "dove.mp3"
+  },
+  {
+    "Name": "Flamingo",
+    "Fact": "Flamingo stands on one leg to save his body heat.",
+    "ImagePath": "flamingo.png",
+    "SoundPath": "flamingo.mp3"
+  },
+  {
+    "Name": "Fox",
+    "Fact": "Foxes can listen to the sound of mice moving under the snow.",
+    "ImagePath": "fox.png",
+    "SoundPath": "fox.mp3"
+  },
+  {
+    "Name": "Frog",
+    "Fact": "Some frogs can absorb water through their skin.",
+    "ImagePath": "frog.png",
+    "SoundPath": "frog.mp3"
+  },
+  {
+    "Name": "Whale Shark",
+    "Fact": "Whale sharks are the largest fish in the world, but only eat plankton.",
+    "ImagePath": "whale_shark.png",
+    "SoundPath": "whale_shark.mp3"
+  },
+  {
+    "Name": "Beetle",
+    "Fact": "Beetles are animals with the largest number of species in the world.",
+    "ImagePath": "beetle.png",
+    "SoundPath": "beetle.mp3"
+  },
+  {
+    "Name": "Stingray",
+    "Fact": "Stingrays have cartilage, not hard bones like fish in general.",
+    "ImagePath": "stingray.png",
+    "SoundPath": "stingray.mp3"
+  },
+  {
+    "Name": "Orca",
+    "Fact": "The killer or Orca whale is the biggest member of the dolphin family.",
+    "ImagePath": "orca.png",
+    "SoundPath": "orca.mp3"
+  },
+  {
+    "Name": "Anaconda",
+    "Fact": "Green Anaconda is the toughest snake in the world, can reach more than 250 kg.",
+    "ImagePath": "anaconda.png",
+    "SoundPath": "anaconda.mp3"
+  },
+  {
+    "Name": "Arowana",
+    "Fact": "Arowana is known as a dragon fish because of its long body shape and sparkling scales.",
+    "ImagePath": "arowana.png",
+    "SoundPath": "fish.mp3"
+  },
+  {
+    "Name": "Red Kangaroo",
+    "Fact": "Red kangaroos can jump 8 meters in one jump.",
+    "ImagePath": "red_kangaroo.png",
+    "SoundPath": "red_kangaroo.mp3"
+  },
+  {
+    "Name": "Parrot",
+    "Fact": "Parrots can imitate human voices and other voices.",
+    "ImagePath": "parrot.png",
+    "SoundPath": "parrot.mp3"
+  },
+  {
+    "Name": "Koi",
+    "Fact": "Koi fish can live more than 200 years in certain conditions.",
+    "ImagePath": "koi.png",
+    "SoundPath": "koi.mp3"
+  },
+  {
+    "Name": "Chicken",
+    "Fact": "Chicken can recognize more than 100 other chicken faces.",
+    "ImagePath": "chicken.png",
+    "SoundPath": "chicken.mp3"
+  },
+  {
+    "Name": "Chimpanzee",
+    "Fact": "Chimpanzees use tools such as branches to get food from places that are difficult to reach.",
+    "ImagePath": "chimpanzee.png",
+    "SoundPath": "chimpanzee.mp3"
+  },
+  {
+    "Name": "Pig",
+    "Fact": "Pigs are animals that are very smart and can be trained to play simple video games.",
+    "ImagePath": "pig.png",
+    "SoundPath": "pig.mp3"
+  }
+]
